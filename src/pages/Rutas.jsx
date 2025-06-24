@@ -1,3 +1,6 @@
+import React from "react";
+import Map from "../components/Map/Map";
+
 export default function Rutas() {
-  return <h2>Página de Rutas</h2>;
+  return <Map />;
 }
