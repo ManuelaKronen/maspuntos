@@ -1,0 +1,7 @@
+/* 	Styles specific to the <App /> component — 
+layout, wrappers, or styles affecting most of the app but scoped to the root component*/
+
+.App {
+  text-align: center;
+  padding: 2rem;
+}
